@@ -1,3 +1,2 @@
-# nvim_file
-nvimの設定ファイル
-テスト
+# nvim_files
+nvim configuration files
